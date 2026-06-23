@@ -53,3 +53,7 @@ http://16.170.250.109
 I saw the NGINX welcome page.
 | <img width="896" height="266" alt="image" src="https://github.com/user-attachments/assets/ecb78cc7-ea3f-4552-ba4d-31333897922a" />
 
+
+Summary
+In this project I learned how to create and manage an AWS EC2 server, connect to it using SSH and install NGINX to host a website. I also learned how to open security group ports, set up DNS records in Cloudflare and connect my custom domain to my server. This project helped me understand how web servers and domain connections work in real life.
+
